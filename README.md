@@ -1,36 +1,39 @@
-# Optimized Engine 🎵🟡
+# ![Optimized Engine]([https://cdn.revoltusercontent.com/attachments/3KoTn5zrBTBzKkcBBYVhfJ4MteIkXogFxityVQgU7B](https://cdn.revoltusercontent.com/attachments/PXkDh0Mw6BaEeVj9PzaerWiQEIP9VKaBzjW7OpHYKr))
 
-¡Bienvenido a **Optimized Engine**!  
-Este es un motor optimizado para **Friday Night Funkin'**, mejorado para correr en una papa conectada a un monitor, estamos en beta 
 
----
-
-## 📦 Contenido del Repo
-
-- `optimized-engine.sb3` → Proyecto principal en Turbowarp convertido a motor optimizado.
-- `LEEME-español.md` → un ¨README.MD¨ en español para los que hablan/leen en español
-- `README-english.md` → un ¨README.MD¨ en ingles para los que hablan/leen en ingles
----
-
-## 🚀 Características
-- Optimizado para rendimiento y velocidad. (en beta pero se esta logrando) <br>
-- Fácil de modificar y expandir gracias al archivo en formato .sb3 compartido anteriormente
+Welcome to **Optimized Engine**!
+This is an optimized engine for **Friday Night Funkin'**, optimized to run on a potato connected to a monitor. This project is in beta.
 
 ---
 
-## 🛠 Instalación
-la vercion jugable esta en itch.io para 3 sistemas operativos: <br>
-Windows: 64 bits y 32 bits. <br>
-Linux: 64 bits (lo más probable que tenga una 32 bits en la beta 4 proximamente). <br>
-MacOS: WKWebView y un electron ejecutable.
+## 📦 Repo Contents
 
-la vercion modificable que esta en github modificable en Turbowarp.org
+- `optimized-engine.sb3` → Main Turbowarp project converted to an optimized engine.
+- `README.md` → This is the readme.md that will be most useful.
+---
 
-paso 1: ve al boton donde dice ¨<> code¨ <br>
-paso 2: dale click al boton ¨<> code¨ <br>
-paso 3: dale click ¨local¨ si estabas en la pestaña de ¨codespace¨ <br>
-paso 4: dale click a ¨download ZIP¨ <br>
-paso 5: espera a que se descarga la .ZIP <br>
-paso 6: descomprime/extrae la carpeta .zip que descargaste <br>
-paso 7: abre la pagina web de [TUBROWARP](https://turbowarp.org) <br>
-paso 8: sube el archivo .sb3 <br>
+## 🚀 Features
+- Optimized for performance and speed. (in beta, but optimization is underway) <br>
+- Runs pretty fast on a mid-range computer, but it could be faster...
+
+---
+
+## 🛠 Installation
+The playable version is on itch.io for three operating systems: <br>
+Windows: 64-bit and 32-bit. <br>
+Linux: 64-bit (most likely with a 32-bit version in beta 4 coming soon). <br>
+MacOS: WKWebView and an Electron executable.
+
+The editable version on GitHub is editable on Turbowarp.org.
+
+Step 1: Go to the button that says "<> code" <br>
+Step 2: Click the "<> code" button <br>
+Step 3: Click "local" if you were in the "codespace" tab <br>
+Step 4: Click "download ZIP" <br>
+Step 5: Wait for the .ZIP to download <br>
+Step 6: Unzip/extract the downloaded .zip folder <br>
+Step 7: Open the [TUBROWARP](https://turbowarp.org) website <br>
+Step 8: If you're in the project menu, click "see inside." If it's in English, it would be "see inside." <br>
+Step 9: Click "files▼" or "file▼" in English.
+Step 10: Click "upload from your computer" or "upload from your computer" in English.
+Step 11: Upload the file you downloaded before the .sb3 file. You can modify the optimized engine beta 3.
