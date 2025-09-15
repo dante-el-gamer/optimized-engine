@@ -40,4 +40,4 @@ Step 11: Upload the file you downloaded before the .sb3 file. You can modify the
  <br>
 ## 🛠 Videos <br>
 
-- !(mobile interface test)[https://youtu.be/s-LgtyxXg9I]
+- ![Mobile interface test](https://youtu.be/s-LgtyxXg9I)
