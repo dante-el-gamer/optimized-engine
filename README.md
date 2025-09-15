@@ -39,5 +39,7 @@ Step 10: Click "upload from your computer" or "upload from your computer" in Eng
 Step 11: Upload the file you downloaded before the .sb3 file. You can modify the optimized engine beta 3. <br>
  <br>
 ## 🛠 Videos <br>
+![ ](https://cdn.revoltusercontent.com/attachments/LSIHyuiQ6gNtSZmDSfF4SHED9dw1yHhbPSL_jSbXe7)
 
-- ![Mobile interface test](https://youtu.be/s-LgtyxXg9I)
+
+[![Mobile interface test](https://cdn.revoltusercontent.com/attachments/TsqjSoM8kJRrFhBtPjc7E7M2In8CyPUwNTS_3hQWsb)](https://www.youtube.com/watch?v=s-LgtyxXg9I)
