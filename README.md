@@ -6,7 +6,7 @@ This is an optimized engine for **Friday Night Funkin'**, optimized to run on a 
 
 ---
 
-## 📦 Repo Contents
+## 📦 Repo Contents :trollface::
 
 - `optimized-engine.sb3` → Main Turbowarp project converted to an optimized engine.
 - `README.md` → This is the readme.md that will be most useful.
