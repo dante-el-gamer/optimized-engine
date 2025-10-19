@@ -32,14 +32,11 @@ The editable version on GitHub is editable on Turbowarp.org.
 4: Click "download ZIP" <br>
 5: Wait for the .ZIP to download <br>
 6: Unzip/extract the downloaded .zip folder <br>
-7: Open the [TUBROWARP](https://turbowarp.org) website <br>
+7: Open the [turbowarp website or app in windows store](https://turbowarp.org) <br>
 8: If you're in the project menu, click "see inside." <br>
 9: Click "files▼" or "file▼" <br>
 10: Click "upload from your computer" <br>
-11: Upload the file you downloaded before the .sb3 file. You can modify the optimized engine beta 3. <br>
+11: Upload the file you downloaded before the .sb3 file. You can modify the optimized engine. <br>
  <br>
-## 🛠 Videos <br>
-
-Click on the video thumbnail to view the video
-
-[![Mobile interface test](https://cdn.revoltusercontent.com/attachments/TsqjSoM8kJRrFhBtPjc7E7M2In8CyPUwNTS_3hQWsb)](https://www.youtube.com/watch?v=s-LgtyxXg9I)
+ 
+see credits.txt to see credits for this.
