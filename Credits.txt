@@ -1,0 +1,10 @@
+Hi, I'm a programmer from Chile. I usually program with text or experiment, but this is my biggest project, Friday Night Funkin' Optimized Engine.
+It's an engine that seeks to optimize the engine created by alvaro_games19 (https://scratch.mit.edu/users/Alvaro_Games19), the basic engine found in Scratch/Turbowarp.
+My goal is to optimize it and add mod support. I like using Scratch for small things, but this is taking me to another level. It's my biggest project, and here are the credits:
+
+The base engine I used was created by: alvaro_games19
+The optimized engine was created by: Dante el Gamer (youtube.com/@danteelgameryt)
+The app I used for programming: turbowarp.org
+
+I used mods in TurboWarp, but I'm too lazy to look for the credits for the TurboWarp mods I used. Sorry, TurboWarp modders.
+
