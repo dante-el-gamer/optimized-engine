@@ -2,7 +2,7 @@
 
 
 Welcome to **Optimized Engine**!
-This is an optimized engine for **Friday Night Funkin'**, optimized to run on a potato connected to a monitor. This project is in beta.
+This is Optimized engine, designed so that anyone with even the slightest knowledge of FNF modding can make their mod.
 
 ---
 
