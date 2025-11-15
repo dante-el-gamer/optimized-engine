@@ -53,7 +53,24 @@ The editable GitHub version can be opened using **Turbowarp.org**.
 
 ---
 
-creator's note:
+## Frequently asked/classic questions:
+1. Does it open on mobile?
+Yes, it opens on mobile, but TurboWarp doesn't offer a mobile option, and I don't think you'd play it comfortably on a slow website, would you?
+
+2. Can I make my own mod?
+Of course you can, it's an engine, that's what it's for.
+
+3. How do I export my mod?
+In this way, and please, for Mac, Windows and Linux
+
+![gif](https://cdn.stoatusercontent.com/attachments/fuPNkRCZlLHx8e7MhqkMVtA6e3UGfXgzUs1ha5yYId)
+
+4.- Can I modify the engine?}
+If I share the source code with you, what do you think? Of course you can
+
+---
+
+## creator's note:
  If you like this little indie project and wanna know more, just read this. I know it’s not a lot, but it’s some cool tiny bits.
 
 Did you know this “team” is not even a real team? It’s just one or two people. One is me, Dante, and the other is a YouTuber called dinogam3r. He’s the tester and also a really good friend. And yeah, did you know I’m actually a kid/teen? Yup, you read that right. I’m a kid who made all of this (well, most of it, because I used a base; I would never try to make FNF from zero in Scratch, that’s way too crazy).
