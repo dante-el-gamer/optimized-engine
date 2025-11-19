@@ -73,5 +73,7 @@ You may copy and distribute verbatim copies of the Program’s source code as yo
 
 ### How to Apply These Terms to Your New Programs
 
-If you develop a new program and want it to be free software, attach the following notice to the program:
+If you develop a new program and want it to be free software, attach the following notice to the program: Optimized Engine — an optimized engine for FNF  
+Copyright (C) 2025 dante el gamer
+
 
