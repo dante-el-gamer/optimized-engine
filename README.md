@@ -1,4 +1,4 @@
-# ![Optimized Engine](https://cdn.stoatusercontent.com/attachments/BBPOvb95AOrdaiU1NPW6s2T_tGzhMTUZYBU5VI3IP-)
+# ![Optimized Engine](https://lh3.google.com/u/0/d/1aWIvRMQlHZGQoztJRaW7uJHx5JQU2m3x=w1919-h965-iv1?auditContext=prefetch)
 
 Welcome to **Optimized Engine**!
 A cleaner, faster, and beginner-friendly FNF engine built so that even users with minimal modding experience can create their own mod with ease. 🚀
