@@ -1,7 +1,7 @@
-# ![Optimized Engine - A engine made in Turbowarp](https://cdn.discordapp.com/attachments/1509360607315361812/1509360834940502128/Readme_banner.png?ex=6a18e551&is=6a1793d1&hm=5560bbf899136e84cfc759fb0141047bda43c765d78e24d9ca2e98909ae8820a&animated=true)
+# ![Optimized Engine - A engine made in Turbowarp](ImagesForReadme/readmebanner.png)
 
-Welcome to **Optimized Engine**!
-A cleaner, faster, and beginner-friendly FNF engine built so that even users with minimal modding experience can create their own mod with ease. 🚀
+Welcome to the earliest version of **Optimized Engine**!
+A messy, slow, and extremely complex engine, but very likely the simplest to use for beginners, or so I think. It's built to be the easiest possible modding experience, allowing them to create their own mods with ease. 🚀
 
 ---
 
